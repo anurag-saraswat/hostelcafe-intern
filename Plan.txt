@@ -1,8 +1,13 @@
 - OPEN SOURCE
 - MOODLE
 - LINUX(kernel,OS,shell,terminal)
-- Technology Stack(LAMP,WAMP,XAMP)
+- Technology Stack(LAMP(linux,apache,mysql,php),WAMP(windows),XAMP(cross platform)
 - Web Server(Apache)
 - Auto-Scaling And Load Balancing
 - INSTALLATION
 - MOODLE ISSUES
+
+url: https://github.com/saraswatanurag14/hostelcafe-intern
+
+
+https://docs.moodle.org/31/en/Step-by-step_Installation_Guide_for_Ubuntu
