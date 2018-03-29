@@ -1,0 +1,8 @@
+- OPEN SOURCE
+- MOODLE
+- LINUX(kernel,OS,shell,terminal)
+- Technology Stack(LAMP,WAMP,XAMP)
+- Web Server(Apache)
+- Auto-Scaling And Load Balancing
+- INSTALLATION
+- MOODLE ISSUES
